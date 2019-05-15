@@ -2,7 +2,7 @@
 Simple general purpose aggregator in Python that looks through URLs through a topic
 
 # About
-This is an aggregator written in Python that uses command line arguments. It looks through a text file of source URLs and picks out lines which contain a user-specified topic, writing them to an output file called *topic*summary.txt
+This is an aggregator written in Python that uses command line arguments. It looks through a text file of source URLs and picks out lines which contain a user-specified topic, writing them to an output file called {topic}summary.txt
 
 # Usage
 1. Download aggregator.py
