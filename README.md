@@ -6,4 +6,5 @@ Simple general purpose aggregator in Python that looks through URLs for a topic
 2. Create a text file of source urls
 3. Open Terminal (the file is run through a Terminal command)
 4. Enter 'python aggregator.py sourcefile topic'
+<br>
 Example: 'python aggregator.py sources.txt art'
